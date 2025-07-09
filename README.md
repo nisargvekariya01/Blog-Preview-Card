@@ -48,7 +48,6 @@ Check out the live demo of this awesome card here:
 Imagine a sleek white card with a bold image, a bright yellow label screaming "Learning," and a clean layout that makes you want to dive into web development! Here’s what it looks like:
 
 <img src="preview.png" alt="Blog Preview Card" width=500px>  
-*Placeholder image – replace with a screenshot of the actual card!*
 
 ---
 
@@ -78,16 +77,10 @@ Got ideas to make this card even cooler? Fork the repo, make your changes, and s
 
 ---
 
-## 📬 Contact
-
-Have questions or want to share your version of the card? Hit me up on [X](https://x.com/your-profile) or drop a comment in the repo! 📩
-
----
-
 ## 🌟 Acknowledgments
 
 - Inspired by the awesome web dev community! 🙌
 - Thanks to **Figtree** font for making text look snazzy. 🖌️
-- Built with 💖 by [Your Name]!
+- Built with 💖 by [Nisarg Vekariya](https://github.com/nisargvekariya01)
 
 Let’s keep coding, keep creating, and keep shining! ✨
