@@ -20,7 +20,7 @@ The card is wrapped in a sunny yellow background, with a clean white card, subtl
 ## 🔗 Live Site
 
 Check out the live demo of this awesome card here:  
-🌐 [**View the Blog Card Live!**](https://blog-preview-card-brown-seven.vercel.app/)  
+🌐 [**View the Blog Card Live!**](https://blog-preview-card-nisarg07.netlify.app/)  
 
 
 ---
